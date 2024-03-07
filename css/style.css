@@ -531,7 +531,7 @@ nav img {
 
 #contact, footer {
   background: #d5d5d5;
-
+padding: 16px;
 }
 
 footer h4{
@@ -716,9 +716,18 @@ footer {
 
   }
   #contact {
-    padding-top: 16px;
-    padding-bottom: 90px;
+
+    padding:16px;
   }
+
+  #contact p, footer p {
+ 
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+  
 
 }
 
